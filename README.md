@@ -22,20 +22,20 @@
 **1. 更新系统包:**
 
 ```bash
-sudo apt update
-sudo apt upgrade
+apt update
+apt upgrade
 ```
 
 **2. 安装Git:**
 
 ```bash
-sudo apt install git
+apt install git
 ```
 
 **3. 安装Go:**
 
 ```bash
-sudo apt install golang
+apt install golang
 ```
 
 **(可选) 验证Go安装:**  安装完成后，你可以运行以下命令验证Go是否已正确安装：
